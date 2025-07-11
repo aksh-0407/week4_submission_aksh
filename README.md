@@ -87,7 +87,7 @@ ros2 run week4_arm fk_node
 | 5 | (4.0, 0.0) | ❌ – outside max reach (≥3.5 m) | – | – |
 | 6 | (0.0, 0.2) | ❌ – inside min reach (≤0.5 m) | – | – |
 
-For full derivations see **`week4_q2.jpg`**; numerical values are tabulated in **`week4_q2_final_answers.xlsx`** (each answer rounded to 4 dp).
+For full derivations see **`week4_q2.jpg`**; numerical values are tabulated in **`week4_q2_final_answers.xlsx`** 
 
 ---
 
