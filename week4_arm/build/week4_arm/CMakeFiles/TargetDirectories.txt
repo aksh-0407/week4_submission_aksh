@@ -1,0 +1,9 @@
+/home/aksh/ros2_ws/src/week4_arm/week4_arm/build/week4_arm/CMakeFiles/uninstall.dir
+/home/aksh/ros2_ws/src/week4_arm/week4_arm/build/week4_arm/CMakeFiles/week4_arm_uninstall.dir
+/home/aksh/ros2_ws/src/week4_arm/week4_arm/build/week4_arm/CMakeFiles/test.dir
+/home/aksh/ros2_ws/src/week4_arm/week4_arm/build/week4_arm/CMakeFiles/edit_cache.dir
+/home/aksh/ros2_ws/src/week4_arm/week4_arm/build/week4_arm/CMakeFiles/rebuild_cache.dir
+/home/aksh/ros2_ws/src/week4_arm/week4_arm/build/week4_arm/CMakeFiles/list_install_components.dir
+/home/aksh/ros2_ws/src/week4_arm/week4_arm/build/week4_arm/CMakeFiles/install.dir
+/home/aksh/ros2_ws/src/week4_arm/week4_arm/build/week4_arm/CMakeFiles/install/local.dir
+/home/aksh/ros2_ws/src/week4_arm/week4_arm/build/week4_arm/CMakeFiles/install/strip.dir
