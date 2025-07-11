@@ -56,7 +56,7 @@
 
 ## 1  Q1 – Forward Kinematics Node
 
-*Node:* 'week4_arm/scripts/fk_node'
+*Node:* `week4_arm/scripts/fk_node`
 *Topic flow:*
 
 ```
@@ -111,8 +111,6 @@ ros2 run week4_arm move_effector
 ## Demo Video
 
 <details>
-<summary>Click to expand</summary>
-
 <p align="center">
   <video src="demo.mp4" width="600" controls></video>
 </p>
@@ -121,26 +119,11 @@ ros2 run week4_arm move_effector
 
 ---
 
-## Minimum & Maximum Reach
-
-- **Max reach:** L₁ + L₂ = **3.5 m**  
-- **Min reach:** |L₁ − L₂| = **0.5 m**
-
-These bounds are enforced by both the FK origins and the IK checker.
-
----
-
-## References
-
-- Assignment brief (Week‑4 PDF)  
-- *Robotic Arms & Forward Kinematics* – Robot Academy  
-- *Inverse Kinematics & Robot Motion* – Robot Academy
 
 ---
 
 ## Author
 
-**Aksh (aksh‑0407)** – Electronics & Controls, Week‑4 submission.
+**Aksh (aksh‑0407)** – Week‑4 submission.
 
-Feel free to open issues or pull requests with suggestions!
 
