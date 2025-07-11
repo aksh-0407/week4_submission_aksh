@@ -56,7 +56,7 @@
 
 ## 1  Q1 – Forward Kinematics Node
 
-*Node:* `fk_node.py` (inside `week4_arm/src`)  
+*Node:* 'week4_arm/scripts/fk_node'
 *Topic flow:*
 
 ```
@@ -91,9 +91,9 @@ For full derivations see **`week4_q2.jpg`**; numerical values are tabulated in *
 
 ---
 
-## 3  Q3 – Interactive IK Goal Node
+## 3  Q3 – Continuation of Q1
 
-*Node:* `ik_cli_node.py`
+*Node:* `week4_arm/scripts/move_effector`
 
 1. Subscribes to `/end_effector_position`  
 2. Prompts the user: axis (`x`/`y`) & step (≤ 0.5 m).  
@@ -101,10 +101,10 @@ For full derivations see **`week4_q2.jpg`**; numerical values are tabulated in *
 4. Publishes `[θ₁, θ₂]` on `/joint_angles_goal` (`std_msgs/Float64MultiArray`).
 
 ```bash
-ros2 run week4_arm ik_cli_node
+ros2 run week4_arm move_effector
 ```
 
-*Tip:* Keep RViz2 open while running the CLI for instant visual feedback.
+
 
 ---
 
